@@ -1,5 +1,5 @@
 # chess-ai
-A simple chess game implementation with AI
+A simple chess game using chess.js library in html, css (bootstrap), js only
 
 ## About
  
